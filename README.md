@@ -1,30 +1,32 @@
-# linux-service-audit 🫆
-i build a script for linux users script to audit and display all running + enabled services with risk levels.
-it can helpyou in to cheak services and misconfiguration . 
-when it found any risk it stop this service.
-it support 
-  "ssh"
-  "rpcbind"
-  "nfs"
-  "telnet"
-  "vsftpd"
-  "apache2"
-  "postgresql"
-  "smb"
-  "xinetd"
-  "ftp"
-  "lightdm"
-  "openvas"
-these services.
+# 🔍 Linux Service Audit
 
-#
+**Author:** [XIS10CIAL](https://www.xis10cial.com)  
+**Version:** 1.0  
+**License:** MIT
 
+A Bash script for Kali Linux that audits running and enabled services, highlights risky ones (e.g., `ssh`, `rpcbind`, `ftp`, `ssh`, `rpcbind`, `nfs`, `telnet`, `vsftpd`, `apache2`, `postgresql` , `smb`, `xinetd`, `ftp`, `lightdm`, `openvas`), and provides actionable recommendations for system hardening.
 
-# 🛠️ How to Use
+---
+
+## 🧰 Features
+
+- Lists all currently running services (`systemd`)
+- Lists all services enabled at boot
+- Highlights potentially insecure or exposed services (e.g., `ssh`, `nfs`, `telnet`)
+- Color-coded output for visibility
+- Suggests remediation via `systemctl disable/stop`
+
+---
+
+## 🚀 Usage
+
+### 1. Clone the Repo
+```bsh
+* git clone https://github.com/linux-service-audit.git
+* cd linux-service-audit
 * sudo git clone
 * chmod +x kali-service-audit.sh
 * ./linux-service-audit.sh
 
 #
-
 
