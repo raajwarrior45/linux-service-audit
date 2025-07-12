@@ -1,4 +1,4 @@
-# linux-service-audit
+# linux-service-audit 🫆
 i build a script for linux users script to audit and display all running + enabled services with risk levels.
 it can helpyou in to cheak services and misconfiguration . 
 when it found any risk it stop this service.
@@ -18,3 +18,13 @@ it support
 these services.
 
 #
+
+
+# 🛠️ How to Use
+* sudo git clone
+* chmod +x kali-service-audit.sh
+* ./linux-service-audit.sh
+
+#
+
+
