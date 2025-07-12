@@ -8,9 +8,6 @@ GREEN="\e[32m"
 YELLOW="\e[33m"
 NC="\e[0m"
 
-echo -e "\n${YELLOW}🔍 Running Services:${NC}"
-systemctl list-units --type=service --state=running
-
 echo -e "\n${YELLOW}⚙️ Services Enabled at Boot:${NC}"
 systemctl list-unit-files --type=service | grep enabled
 
