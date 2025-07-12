@@ -17,4 +17,4 @@ it support
   "openvas"
 these services.
 
-*
+#
