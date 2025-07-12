@@ -1,6 +1,6 @@
 # 🔍 Linux Service Audit
 
-**Author:** [XIS10CIAL](https://www.xis10cial.com)  
+**Author:** [ Raajwarrior ]  
 **Version:** 1.0  
 **License:** MIT
 
