@@ -21,7 +21,7 @@ A Bash script for Kali Linux that audits running and enabled services, highlight
 ## 🚀 Usage
 
 ### 1. Clone the Repo
-* git clone https://github.com/linux-service-audit.git
+* sudo git clone https://github.com/linux-service-audit.git
 ### 2. go to this folder through cd command
 * cd linux--service-audit
 ### 3. Give permission of exicute
