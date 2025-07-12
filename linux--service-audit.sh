@@ -42,3 +42,4 @@ echo -e "\n${GREEN}✅ Audit complete.${NC} Consider disabling unneeded services
 echo "  sudo systemctl disable <service>"
 echo "  sudo systemctl stop <service>"
 echo "  stop these services where you are taking not in use . it might compromise your system "
+
