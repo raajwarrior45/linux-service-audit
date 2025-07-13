@@ -31,8 +31,8 @@ A Bash script for Kali Linux that audits running and enabled services, highlight
 
 ---
 ## 📸 Screenshot
-<img width="1366" height="768" alt="Screenshot_2025-07-12_22_09_36" src="https://github.com/user-attachments/assets/b6cac16f-b436-460b-b68e-2d99359ff774" />
-<img width="1366" height="768" alt="Screenshot_2025-07-12_22_09_52" src="https://github.com/user-attachments/assets/5913d38c-de19-47ec-8dcb-7a923a19e148" />
+<img width="1366" height="768" alt="Screenshot_2025-07-13_05_28_48" src="https://github.com/user-attachments/assets/b3a2b383-e3c5-4771-812b-3b673f1b030b" />
 
----
+---<img width="1366" height="768" alt="Screenshot_2025-07-13_05_28_56" src="https://github.com/user-attachments/assets/cbbe5afd-d425-4c98-9bec-33855f9784a4" />
+
 
