@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Abhijitlenka
+# Author: raajwarrior
 # Version: 1.0
 
 RED="\e[31m"
