@@ -27,7 +27,7 @@ A Bash script for Kali Linux that audits running and enabled services, highlight
 ### 3. Give permission of exicute
 * chmod +x linux--service-audit.sh
 ### 4. Run this bash file 
-* ./linux-service-audit.sh
+* ./linux--service-audit.sh
 
 ---
 ## 📸 Screenshot
